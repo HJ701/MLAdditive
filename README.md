@@ -10,14 +10,14 @@ To intelligently predict the **ideal combination and dosage** of additives (e.g.
 
 ## 🧩 Project Components
 
-### 1. Dataset Development
+### 1. Dataset Development (Subject to change)
 - **Synthetic and empirical data** simulation covering:
   - Base resin: Polyethylene / Polypropylene
   - Additives: Primary & Secondary AO, Carbon Black, Waxes, etc.
   - Environment: Temp, UV, ClO₂, Water, Pressure
   - Output: Predicted Lifetime
 
-### 2. Model Development
+### 2. Model Development (Subject to change)
 - ML regression pipeline:
   - Feature preprocessing & encoding
   - Lifetime prediction using regression models (e.g., XGBoost, MLP, etc.)
