@@ -1,0 +1,201 @@
+Base_Resin,SDR,Service_Pressure_bar,Service_Temperature_C,Environment,Primary_AO,Secondary_AO,Primary_AO_ppm,Secondary_AO_ppm,Carbon_Black_Type,CB_Content_%,Wax_Type,Wax_Content_%,Lifetime_years
+PE100,11,12,23,Water,Irganox 1010,Sandostab PEPQ,744,1339,Standard CB,2.43,Erucamide,0.52,54.4
+PE100-RC,21,6,35,Water,Irganox 1076,Irgafos 168,1496,760,Standard CB,0.9,Amide Wax,1.19,101.6
+PE100,11,8,80,Air,Irganox 1076,Sandostab PEPQ,733,1024,Standard CB,0.79,None,0,120
+PE100,6,4,80,ClO2,Irganox 1010,Sandostab PEPQ,1507,872,Standard CB,0.79,None,0,120
+PE100,26,12,23,ClO2,Irganox 1010,PEPQ,732,808,None,0,None,0,34.4
+PE100-RC,17,12,80,ClO2,Irganox 1010,Irgafos 168,1525,1551,Standard CB,1.6,None,0,120
+PE100-RC,9,6,60,Water,Hostanox O3,Irgafos 168,1590,1568,High-Structure CB,1.64,Oxidized PE Wax,0.84,120
+PE100-RC,6,10,23,Air,Irganox 1076,Sandostab PEPQ,808,505,Standard CB,2.21,None,0,58.6
+PE100-RC,9,8,80,Air,Irganox 1076,PEPQ,805,950,High-Structure CB,0.7,None,0,120
+PE100-RC,17,8,80,ClO2,Irganox 1076,PEPQ,550,611,Conductive CB,1.45,Erucamide,0.88,120
+PE100,6,8,35,ClO2,Irganox 1010,PEPQ,1430,436,None,0,Erucamide,1.03,68.1
+PE100-RC,26,8,35,Water,Irganox 1010,Irgafos 168,627,1549,Conductive CB,1.54,Erucamide,0.76,99.2
+PE100-RC,17,12,35,ClO2,Irganox 1010,Irgafos 168,1055,1000,High-Structure CB,2.4,None,0,76.5
+PE100-RC,11,6,60,Water,Hostanox O3,Sandostab PEPQ,1283,998,None,0,Amide Wax,0.84,120
+PE100-RC,21,6,60,ClO2,Irganox 1010,Irgafos 168,773,1485,High-Structure CB,1.48,Oxidized PE Wax,0.44,119.7
+PE100,17,12,23,Water,Irganox 1076,Sandostab PEPQ,676,1420,None,0,Oxidized PE Wax,0.57,50.1
+PE100,11,10,35,ClO2,Irganox 1010,PEPQ,1023,694,None,0,Oxidized PE Wax,1,60
+PE100-RC,6,12,60,ClO2,Hostanox O3,Sandostab PEPQ,1188,1599,Standard CB,2.1,Erucamide,0.88,119.7
+PE100-RC,6,12,60,Water,Hostanox O3,Irgafos 168,1108,1123,None,0,Oxidized PE Wax,0.34,120
+PE100,21,12,80,ClO2,Hostanox O3,Sandostab PEPQ,588,1150,High-Structure CB,1.5,Erucamide,1.06,120
+PE100,9,10,80,Water,Hostanox O3,Sandostab PEPQ,829,1136,Standard CB,1.88,Amide Wax,0.64,120
+PE100,17,8,80,ClO2,Irganox 1076,PEPQ,1477,978,Conductive CB,1.32,Erucamide,1.16,120
+PE100,6,6,23,Air,Irganox 1076,PEPQ,628,1515,None,0,None,0,48
+PE100-RC,17,8,23,ClO2,Irganox 1010,Sandostab PEPQ,807,949,Standard CB,1.1,None,0,43.3
+PE100-RC,6,8,35,Water,Irganox 1076,Sandostab PEPQ,1287,1188,Conductive CB,1.58,Erucamide,0.5,102.8
+PE100-RC,17,8,23,ClO2,Irganox 1010,PEPQ,739,1505,High-Structure CB,0.91,Amide Wax,1.05,42.3
+PE100-RC,26,6,60,Water,Irganox 1010,PEPQ,721,1578,High-Structure CB,1.93,Amide Wax,1.19,120
+PE100-RC,6,8,80,ClO2,Irganox 1076,Irgafos 168,840,1035,Standard CB,2.31,Oxidized PE Wax,0.68,120
+PE100-RC,21,8,80,ClO2,Irganox 1010,Sandostab PEPQ,1215,712,Standard CB,2.04,None,0,120
+PE100,11,12,80,ClO2,Hostanox O3,Irgafos 168,1582,1226,Conductive CB,1.61,None,0,120
+PE100-RC,9,12,80,Water,Irganox 1076,Sandostab PEPQ,1096,1383,Conductive CB,1.04,Amide Wax,0.61,120
+PE100,26,4,23,ClO2,Irganox 1010,Sandostab PEPQ,440,939,None,0,Oxidized PE Wax,0.1,36.6
+PE100,11,10,60,Water,Irganox 1076,PEPQ,422,1174,High-Structure CB,2.36,Amide Wax,0.46,119.9
+PE100-RC,21,12,60,Air,Irganox 1010,PEPQ,1415,1243,High-Structure CB,1.84,Erucamide,1.06,120
+PE100-RC,9,8,35,Air,Irganox 1010,Irgafos 168,834,578,None,0,Oxidized PE Wax,1.04,91.3
+PE100,11,10,60,ClO2,Irganox 1010,Irgafos 168,1015,511,Standard CB,1.03,None,0,117.4
+PE100,9,6,80,Air,Hostanox O3,PEPQ,1387,1274,Conductive CB,1.9,Erucamide,1.19,120
+PE100,9,4,80,Water,Irganox 1076,Sandostab PEPQ,1402,1270,None,0,Erucamide,0.3,120
+PE100,6,8,80,Air,Irganox 1010,PEPQ,462,1375,None,0,Amide Wax,0.8,120
+PE100-RC,9,6,35,Water,Irganox 1076,Irgafos 168,644,730,High-Structure CB,1.18,Erucamide,0.28,102.1
+PE100,6,4,60,Air,Irganox 1010,Sandostab PEPQ,950,459,Standard CB,2.38,None,0,119.9
+PE100-RC,21,10,80,Air,Irganox 1076,Sandostab PEPQ,1301,638,Standard CB,0.54,Erucamide,0.26,120
+PE100,26,12,60,Air,Hostanox O3,Irgafos 168,894,1006,High-Structure CB,2.13,Amide Wax,0.99,119.7
+PE100-RC,26,8,35,ClO2,Irganox 1076,Sandostab PEPQ,1595,922,None,0,Oxidized PE Wax,0.49,77.4
+PE100-RC,6,4,60,Water,Irganox 1010,Irgafos 168,812,1059,None,0,None,0,120
+PE100,21,12,80,Water,Hostanox O3,Sandostab PEPQ,664,569,None,0,Erucamide,1,120
+PE100-RC,6,4,60,Water,Irganox 1076,Sandostab PEPQ,667,495,None,0,None,0,120
+PE100,9,12,23,ClO2,Hostanox O3,Irgafos 168,489,819,Conductive CB,0.96,Erucamide,1.05,33.7
+PE100-RC,6,10,23,Water,Irganox 1010,Irgafos 168,1129,1241,High-Structure CB,0.57,Erucamide,1.15,61.7
+PE100,17,8,60,ClO2,Irganox 1010,PEPQ,986,1391,Standard CB,2.46,None,0,118.3
+PE100,21,6,35,Air,Irganox 1010,Sandostab PEPQ,1340,710,High-Structure CB,2.43,Amide Wax,0.81,87.8
+PE100,6,8,80,Water,Hostanox O3,Irgafos 168,496,1151,High-Structure CB,1.56,None,0,120
+PE100,17,10,23,ClO2,Irganox 1010,Sandostab PEPQ,838,534,High-Structure CB,1.37,Oxidized PE Wax,0.24,35.1
+PE100,9,4,35,Water,Irganox 1076,Sandostab PEPQ,940,1369,Conductive CB,2.35,None,0,91.2
+PE100-RC,17,10,23,Air,Irganox 1010,Sandostab PEPQ,1229,957,Conductive CB,1.73,Amide Wax,0.28,57.2
+PE100-RC,21,6,23,Water,Irganox 1010,Irgafos 168,1456,1377,None,0,None,0,67.9
+PE100-RC,26,8,80,Air,Irganox 1076,Sandostab PEPQ,1269,1005,Conductive CB,1.46,Oxidized PE Wax,0.91,120
+PE100-RC,17,6,80,ClO2,Irganox 1010,PEPQ,421,509,High-Structure CB,2.17,Erucamide,0.76,120
+PE100-RC,9,6,23,Water,Irganox 1010,Irgafos 168,1262,602,Conductive CB,1.31,None,0,65.9
+PE100-RC,17,12,60,Air,Hostanox O3,PEPQ,1570,592,High-Structure CB,1.1,Oxidized PE Wax,0.69,120
+PE100,9,10,80,Air,Irganox 1076,Sandostab PEPQ,674,659,Conductive CB,1.94,None,0,120
+PE100,21,6,35,Air,Irganox 1010,Sandostab PEPQ,828,989,High-Structure CB,0.67,Oxidized PE Wax,0.2,87.6
+PE100,11,10,60,Water,Irganox 1010,Irgafos 168,1332,1202,High-Structure CB,0.8,Erucamide,0.53,119.8
+PE100,9,8,60,ClO2,Irganox 1010,Irgafos 168,1557,631,High-Structure CB,1.81,Oxidized PE Wax,1.12,118.1
+PE100-RC,6,10,60,Water,Irganox 1010,Sandostab PEPQ,1093,1333,None,0,Oxidized PE Wax,1.02,120
+PE100-RC,11,10,23,ClO2,Irganox 1076,Irgafos 168,836,1573,High-Structure CB,1.13,Amide Wax,0.45,42.6
+PE100,26,10,35,Water,Irganox 1076,Irgafos 168,466,1420,Standard CB,2.01,Amide Wax,0.34,86.3
+PE100-RC,9,12,23,Air,Irganox 1010,PEPQ,1072,647,None,0,None,0,58.9
+PE100-RC,9,4,60,Air,Irganox 1076,Irgafos 168,1433,753,Standard CB,0.73,Erucamide,0.63,120
+PE100,6,12,60,Air,Irganox 1076,Sandostab PEPQ,758,814,None,0,Oxidized PE Wax,0.56,119.5
+PE100,6,10,23,Water,Irganox 1010,Sandostab PEPQ,659,1483,High-Structure CB,0.7,Erucamide,0.35,52
+PE100-RC,21,12,35,ClO2,Irganox 1076,Irgafos 168,661,762,Conductive CB,1.17,None,0,80.5
+PE100,21,8,23,Water,Irganox 1076,Sandostab PEPQ,1509,970,Standard CB,2.44,Amide Wax,0.2,54
+PE100,21,10,80,Water,Irganox 1076,Sandostab PEPQ,485,439,Standard CB,1.6,None,0,120
+PE100,6,6,35,Air,Hostanox O3,Sandostab PEPQ,849,1119,None,0,Erucamide,0.77,84.5
+PE100,26,4,35,Air,Hostanox O3,PEPQ,1021,1257,Standard CB,1.82,Oxidized PE Wax,0.76,88.1
+PE100,21,12,80,ClO2,Irganox 1076,Irgafos 168,754,1474,High-Structure CB,2.1,Erucamide,0.74,120
+PE100-RC,21,8,60,ClO2,Irganox 1076,PEPQ,482,1364,None,0,Oxidized PE Wax,0.3,119.6
+PE100,9,4,23,Water,Irganox 1076,PEPQ,1322,1500,Conductive CB,2.47,Erucamide,0.78,55.1
+PE100,9,4,80,Air,Irganox 1076,PEPQ,1124,1217,High-Structure CB,1.68,Erucamide,0.64,120
+PE100-RC,17,12,60,ClO2,Hostanox O3,PEPQ,938,1245,High-Structure CB,1.02,Amide Wax,0.67,119.5
+PE100-RC,6,4,80,ClO2,Hostanox O3,Sandostab PEPQ,685,1307,Conductive CB,0.72,Amide Wax,1.05,120
+PE100,9,12,23,ClO2,Hostanox O3,Irgafos 168,882,761,None,0,Oxidized PE Wax,0.99,33.7
+PE100,26,6,80,Air,Irganox 1076,Sandostab PEPQ,1261,1525,None,0,None,0,120
+PE100-RC,9,12,23,Water,Irganox 1076,Irgafos 168,436,943,Conductive CB,0.94,None,0,60.6
+PE100,17,10,23,ClO2,Irganox 1010,Sandostab PEPQ,925,1588,Standard CB,0.99,Erucamide,0.85,32.4
+PE100,6,4,35,Air,Irganox 1010,PEPQ,872,894,High-Structure CB,1.65,None,0,89
+PE100,9,4,60,ClO2,Hostanox O3,Sandostab PEPQ,1322,655,None,0,Oxidized PE Wax,0.33,118.6
+PE100,9,8,35,Air,Hostanox O3,Sandostab PEPQ,580,958,High-Structure CB,1.43,Amide Wax,0.59,79.5
+PE100-RC,26,6,23,Air,Irganox 1076,PEPQ,623,1350,None,0,Erucamide,0.91,55.9
+PE100,11,12,60,Air,Hostanox O3,PEPQ,1136,1332,High-Structure CB,1.61,Amide Wax,0.81,119.8
+PE100-RC,11,4,60,Air,Hostanox O3,Sandostab PEPQ,1188,896,None,0,Amide Wax,0.57,120
+PE100-RC,26,8,80,ClO2,Irganox 1076,PEPQ,876,1070,Conductive CB,1.75,Amide Wax,0.71,120
+PE100,9,6,60,Water,Irganox 1010,Sandostab PEPQ,680,673,None,0,Oxidized PE Wax,0.25,119.9
+PE100-RC,21,6,60,ClO2,Irganox 1010,Sandostab PEPQ,566,939,High-Structure CB,0.9,Oxidized PE Wax,0.61,119.5
+PE100,11,4,35,ClO2,Hostanox O3,PEPQ,543,830,Standard CB,1.42,Oxidized PE Wax,0.33,66.4
+PE100,11,6,35,ClO2,Hostanox O3,Irgafos 168,1117,1194,Standard CB,0.8,None,0,70.6
+PE100-RC,6,10,23,Air,Hostanox O3,Sandostab PEPQ,475,802,High-Structure CB,2.29,Erucamide,0.3,56.6
+PE100,17,10,80,ClO2,Hostanox O3,PEPQ,507,1069,None,0,Amide Wax,0.72,120
+PE100,11,12,80,ClO2,Irganox 1076,PEPQ,991,427,None,0,Erucamide,0.39,120
+PE100-RC,11,8,23,Water,Hostanox O3,PEPQ,1424,728,Standard CB,1.33,None,0,62.3
+PE100-RC,6,12,35,ClO2,Irganox 1076,Irgafos 168,1337,962,High-Structure CB,0.9,Oxidized PE Wax,0.27,78.8
+PE100-RC,17,6,60,Water,Irganox 1010,Irgafos 168,1531,1154,High-Structure CB,1.3,Erucamide,1.08,120
+PE100,11,10,60,ClO2,Irganox 1076,PEPQ,1426,1106,None,0,Amide Wax,0.14,118.1
+PE100,21,8,35,Air,Irganox 1076,Irgafos 168,1410,1129,Standard CB,1.52,Amide Wax,1.07,89.3
+PE100-RC,21,8,80,ClO2,Irganox 1076,Irgafos 168,636,832,None,0,Oxidized PE Wax,0.69,120
+PE100,21,10,60,Air,Irganox 1076,PEPQ,482,1402,Standard CB,1.3,None,0,119.8
+PE100,6,8,35,ClO2,Irganox 1076,Sandostab PEPQ,1149,488,None,0,Oxidized PE Wax,0.95,68.4
+PE100,21,4,60,Water,Irganox 1076,PEPQ,704,963,High-Structure CB,1.81,None,0,119.9
+PE100-RC,11,6,60,Water,Irganox 1076,Sandostab PEPQ,655,1432,Conductive CB,1.46,Amide Wax,0.73,120
+PE100-RC,26,8,80,Water,Hostanox O3,Irgafos 168,1600,1212,Standard CB,1.24,Amide Wax,1.01,120
+PE100-RC,6,8,23,ClO2,Irganox 1010,PEPQ,1228,1346,High-Structure CB,1.04,None,0,41.4
+PE100-RC,9,8,35,Air,Hostanox O3,Sandostab PEPQ,775,1307,Standard CB,1.42,Erucamide,0.87,97.1
+PE100,26,6,60,ClO2,Hostanox O3,PEPQ,889,1465,Conductive CB,2.03,Erucamide,0.76,118.5
+PE100,17,8,80,ClO2,Irganox 1010,Irgafos 168,1129,786,Conductive CB,1.67,Amide Wax,1.06,120
+PE100,11,12,60,Water,Irganox 1010,Sandostab PEPQ,794,590,High-Structure CB,2.24,Erucamide,1.17,119.8
+PE100-RC,6,12,80,Water,Irganox 1010,Irgafos 168,1291,1162,Conductive CB,0.69,Amide Wax,1.04,120
+PE100,21,6,80,Water,Irganox 1076,PEPQ,768,1142,High-Structure CB,1.28,None,0,120
+PE100,9,6,35,ClO2,Hostanox O3,PEPQ,695,733,Standard CB,1.79,None,0,65.7
+PE100,21,6,23,Water,Irganox 1010,Irgafos 168,653,1516,None,0,Oxidized PE Wax,0.56,56.9
+PE100,21,4,23,ClO2,Irganox 1010,Irgafos 168,1029,1361,Conductive CB,2.41,Erucamide,0.71,41
+PE100-RC,17,4,23,ClO2,Irganox 1076,PEPQ,785,1286,High-Structure CB,1.9,Amide Wax,0.75,45.3
+PE100,17,4,23,Air,Hostanox O3,Sandostab PEPQ,612,846,High-Structure CB,1.74,None,0,49.3
+PE100,11,8,60,Water,Irganox 1076,Irgafos 168,1083,1137,High-Structure CB,0.76,Oxidized PE Wax,1.17,119.8
+PE100-RC,9,8,23,ClO2,Hostanox O3,PEPQ,778,1207,Standard CB,2.34,Oxidized PE Wax,0.16,42
+PE100,17,12,23,Air,Irganox 1010,Sandostab PEPQ,723,485,None,0,Oxidized PE Wax,0.16,46.3
+PE100,17,6,80,Air,Irganox 1010,PEPQ,555,654,Standard CB,2.15,Erucamide,1.14,120
+PE100-RC,26,6,23,Air,Irganox 1076,PEPQ,1126,947,Standard CB,2.25,Erucamide,1.06,61.4
+PE100-RC,11,8,23,Water,Hostanox O3,Irgafos 168,808,1348,High-Structure CB,1.01,None,0,63.9
+PE100-RC,11,8,80,Water,Hostanox O3,Irgafos 168,697,830,None,0,Amide Wax,0.62,120
+PE100-RC,6,12,23,ClO2,Hostanox O3,Irgafos 168,561,1368,Conductive CB,1.37,Erucamide,1.18,43
+PE100,9,8,80,Air,Irganox 1010,Irgafos 168,884,424,None,0,Amide Wax,0.44,120
+PE100-RC,11,12,35,Air,Irganox 1010,Sandostab PEPQ,1413,552,High-Structure CB,0.51,Oxidized PE Wax,0.46,94.9
+PE100,21,12,35,Water,Irganox 1010,Irgafos 168,1124,1013,Standard CB,1.16,None,0,88.5
+PE100,11,6,35,Water,Irganox 1010,PEPQ,957,793,Conductive CB,1.61,Oxidized PE Wax,1.17,85.7
+PE100-RC,6,6,23,Water,Hostanox O3,Sandostab PEPQ,619,1071,Standard CB,1.88,None,0,66.6
+PE100-RC,26,8,35,Water,Hostanox O3,Sandostab PEPQ,760,1434,Standard CB,0.93,None,0,99.4
+PE100-RC,17,6,80,ClO2,Irganox 1076,Irgafos 168,1282,727,Conductive CB,1.83,None,0,120
+PE100,9,10,80,Air,Irganox 1010,Sandostab PEPQ,1514,1461,Standard CB,0.99,Erucamide,1.1,120
+PE100,11,6,60,Water,Irganox 1076,Irgafos 168,559,1309,Standard CB,2.03,None,0,119.9
+PE100,21,6,60,Air,Irganox 1010,Irgafos 168,1196,1221,High-Structure CB,1.69,Amide Wax,0.39,119.9
+PE100,26,6,23,ClO2,Hostanox O3,PEPQ,859,1526,Standard CB,0.54,Oxidized PE Wax,0.41,34.6
+PE100-RC,26,6,60,Air,Irganox 1010,Irgafos 168,439,1074,Standard CB,2.28,Oxidized PE Wax,0.62,120
+PE100-RC,17,6,35,Air,Hostanox O3,Irgafos 168,500,1038,Conductive CB,1.51,Amide Wax,0.89,94.4
+PE100-RC,17,6,80,ClO2,Irganox 1076,PEPQ,1001,1129,Standard CB,0.83,Amide Wax,0.42,120
+PE100-RC,17,10,35,ClO2,Irganox 1010,PEPQ,964,1595,Conductive CB,2.34,Oxidized PE Wax,1.1,77.4
+PE100,17,8,60,ClO2,Irganox 1076,Sandostab PEPQ,1166,1501,Standard CB,1.4,Oxidized PE Wax,0.58,118.5
+PE100-RC,11,6,35,ClO2,Irganox 1010,Irgafos 168,1491,848,None,0,Erucamide,0.27,84.8
+PE100,6,4,80,ClO2,Irganox 1076,Irgafos 168,1297,1333,Standard CB,1.91,Oxidized PE Wax,1.01,120
+PE100-RC,17,4,23,Water,Hostanox O3,PEPQ,433,471,High-Structure CB,2.06,Erucamide,0.7,60.6
+PE100,6,10,60,Air,Hostanox O3,Irgafos 168,1239,1456,Standard CB,0.68,Oxidized PE Wax,0.48,119.7
+PE100,6,4,80,Air,Hostanox O3,PEPQ,1457,468,None,0,Amide Wax,0.38,120
+PE100,6,12,23,ClO2,Irganox 1076,Irgafos 168,1304,732,Conductive CB,0.52,None,0,32.7
+PE100,6,12,80,Air,Irganox 1010,Irgafos 168,482,873,None,0,Amide Wax,0.88,120
+PE100,17,4,35,Air,Irganox 1076,PEPQ,865,549,None,0,Amide Wax,1.02,89
+PE100-RC,9,12,35,Air,Hostanox O3,Sandostab PEPQ,790,1591,Standard CB,2.3,Amide Wax,0.45,93.3
+PE100-RC,6,8,23,ClO2,Irganox 1010,Irgafos 168,1283,795,High-Structure CB,0.78,None,0,42.3
+PE100,9,4,35,ClO2,Irganox 1076,PEPQ,1466,1236,None,0,Oxidized PE Wax,1.08,69
+PE100,26,10,60,ClO2,Irganox 1010,Sandostab PEPQ,497,1357,None,0,Amide Wax,0.66,117.1
+PE100,26,10,23,ClO2,Irganox 1076,Irgafos 168,1205,815,High-Structure CB,1.69,Erucamide,0.22,32.3
+PE100,17,8,80,ClO2,Irganox 1076,Sandostab PEPQ,1323,552,Conductive CB,0.59,None,0,120
+PE100,11,12,35,ClO2,Hostanox O3,Irgafos 168,1344,865,Conductive CB,0.8,Oxidized PE Wax,0.69,62.8
+PE100,11,8,80,Water,Irganox 1010,Sandostab PEPQ,484,1579,None,0,None,0,120
+PE100-RC,21,6,23,ClO2,Irganox 1076,PEPQ,930,1104,High-Structure CB,2,Oxidized PE Wax,0.37,43.5
+PE100,6,10,23,Air,Hostanox O3,PEPQ,1578,824,None,0,Oxidized PE Wax,1.15,49.8
+PE100,9,4,35,ClO2,Irganox 1010,Irgafos 168,1031,1294,High-Structure CB,2.05,Erucamide,1.19,68.9
+PE100,6,6,23,ClO2,Irganox 1010,Sandostab PEPQ,992,1187,High-Structure CB,1.42,Amide Wax,1.11,36.5
+PE100-RC,17,6,23,Air,Irganox 1076,Irgafos 168,407,486,Conductive CB,2.09,Erucamide,1.05,54.9
+PE100,9,6,60,ClO2,Irganox 1076,Irgafos 168,1275,837,High-Structure CB,1.04,Amide Wax,1.05,117.8
+PE100-RC,21,6,35,ClO2,Hostanox O3,Irgafos 168,1250,1322,None,0,Erucamide,0.39,85.1
+PE100,11,12,80,Air,Hostanox O3,Irgafos 168,1323,406,None,0,Oxidized PE Wax,0.85,120
+PE100-RC,9,12,80,Water,Hostanox O3,Sandostab PEPQ,1278,595,None,0,None,0,120
+PE100,6,12,23,ClO2,Irganox 1010,PEPQ,939,1275,High-Structure CB,1.03,Amide Wax,1.15,33.2
+PE100,26,6,35,Air,Irganox 1076,Irgafos 168,1316,567,High-Structure CB,1.38,Amide Wax,0.72,86
+PE100-RC,9,8,35,Air,Hostanox O3,Irgafos 168,752,1128,Conductive CB,1.77,None,0,99.5
+PE100,21,6,80,Air,Irganox 1010,Sandostab PEPQ,439,1037,None,0,Amide Wax,0.26,120
+PE100,26,10,35,Water,Irganox 1076,Sandostab PEPQ,1262,794,None,0,Oxidized PE Wax,0.74,86.4
+PE100-RC,9,8,35,ClO2,Irganox 1010,Sandostab PEPQ,1459,926,None,0,Oxidized PE Wax,0.25,79.5
+PE100-RC,6,6,35,Air,Hostanox O3,Sandostab PEPQ,1560,1535,Standard CB,2.31,Oxidized PE Wax,0.72,102.3
+PE100,17,12,35,Air,Irganox 1010,PEPQ,818,629,High-Structure CB,2.09,Oxidized PE Wax,0.21,82.3
+PE100,17,4,35,Water,Irganox 1076,Sandostab PEPQ,1383,1577,None,0,Oxidized PE Wax,0.37,96
+PE100,6,6,23,Water,Hostanox O3,Sandostab PEPQ,695,605,Conductive CB,1.22,Oxidized PE Wax,0.37,51
+PE100-RC,9,12,80,Water,Irganox 1010,Sandostab PEPQ,1593,543,High-Structure CB,0.66,Oxidized PE Wax,0.42,120
+PE100,11,8,35,ClO2,Hostanox O3,Sandostab PEPQ,1523,530,Standard CB,1.6,Amide Wax,0.63,65.9
+PE100,9,6,23,Water,Hostanox O3,Irgafos 168,454,1149,High-Structure CB,1.01,Erucamide,1.12,52.3
+PE100-RC,11,8,23,ClO2,Irganox 1076,Irgafos 168,844,696,Standard CB,1.69,None,0,43.6
+PE100-RC,21,4,60,Water,Irganox 1010,Irgafos 168,718,1271,None,0,Oxidized PE Wax,0.77,120
+PE100-RC,11,4,35,ClO2,Irganox 1076,PEPQ,918,495,High-Structure CB,0.74,Erucamide,0.89,80.4
+PE100,11,8,35,Water,Hostanox O3,Irgafos 168,549,1091,High-Structure CB,0.75,None,0,85.6
+PE100-RC,17,12,60,Water,Irganox 1076,Sandostab PEPQ,582,814,High-Structure CB,2.15,Oxidized PE Wax,0.46,120
+PE100,21,4,23,Air,Hostanox O3,Sandostab PEPQ,846,1143,Standard CB,1.75,None,0,53.4
+PE100,6,6,23,Air,Irganox 1010,Irgafos 168,738,1370,Conductive CB,0.81,None,0,46.9
+PE100,21,12,35,Water,Irganox 1010,Irgafos 168,749,1257,High-Structure CB,0.54,None,0,86.5
+PE100-RC,26,12,23,ClO2,Irganox 1076,PEPQ,1070,989,Standard CB,0.79,Erucamide,0.45,43.2
+PE100,6,4,23,Water,Irganox 1010,PEPQ,494,1315,Conductive CB,1.67,Amide Wax,1.02,53.3
+PE100,17,4,23,ClO2,Irganox 1010,Sandostab PEPQ,421,593,None,0,Amide Wax,0.96,34.1
+PE100,6,4,35,Air,Hostanox O3,PEPQ,917,994,Standard CB,1.52,Erucamide,0.11,87.9
+PE100-RC,17,10,60,ClO2,Irganox 1076,PEPQ,1466,1578,Conductive CB,2.44,Oxidized PE Wax,0.97,119.6
+PE100,9,4,60,Air,Hostanox O3,Sandostab PEPQ,858,917,Conductive CB,1.73,Oxidized PE Wax,0.74,119.9
+PE100-RC,6,12,60,ClO2,Hostanox O3,Sandostab PEPQ,787,1387,High-Structure CB,0.85,None,0,119.6
