@@ -1,0 +1,26 @@
+SDR
+Service_Pressure_bar
+Service_Temperature_C
+CB_Content_%
+Wax_Content_%
+Primary_AO_ppm
+Secondary_AO_ppm
+Base_Resin_PE100
+Base_Resin_PE100-RC
+Environment_Air
+Environment_ClO2
+Environment_Water
+Primary_AO_Hostanox O3
+Primary_AO_Irganox 1010
+Primary_AO_Irganox 1076
+Secondary_AO_Irgafos 168
+Secondary_AO_PEPQ
+Secondary_AO_Sandostab PEPQ
+Carbon_Black_Type_Conductive CB
+Carbon_Black_Type_High-Structure CB
+Carbon_Black_Type_None
+Carbon_Black_Type_Standard CB
+Wax_Type_Amide Wax
+Wax_Type_Erucamide
+Wax_Type_None
+Wax_Type_Oxidized PE Wax
