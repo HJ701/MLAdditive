@@ -5,7 +5,7 @@ import joblib
 import numpy as np
 
 # ------------------ Load Model ------------------
-model = joblib.load('MLAdditive/models/best_rf_model.pkl')
+model = joblib.load('../models/best_rf_model.pkl')
 
 # ------------------ Preprocessing ------------------
 def preprocess(df):
