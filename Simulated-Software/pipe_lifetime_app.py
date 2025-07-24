@@ -1,8 +1,11 @@
 import streamlit as st
+st.set_page_config(page_title="Pipe Lifetime Predictor", layout="centered", page_icon="🛠️")
+
 import pandas as pd
 import joblib
 import numpy as np
 from pathlib import Path
+
 
 # ------------------ Load Model ------------------
 @st.cache_resource
