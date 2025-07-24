@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="Pipe Lifetime Predictor", layout="centered", page_icon="🛠️")
+st.set_page_config(page_title="Pipe Lifetime Predictor", layout="centered")
 
 import pandas as pd
 import joblib
@@ -66,7 +66,6 @@ def preprocess(df):
     return X, y
 
 # ------------------ Streamlit App ------------------
-st.set_page_config(page_title="Pipe Lifetime Predictor", layout="centered")
 st.title("Pipe Lifetime Prediction App")
 st.markdown("Enter the properties of the pipe to predict its estimated **Lifetime (years)**.")
 
