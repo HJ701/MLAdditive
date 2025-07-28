@@ -10,10 +10,10 @@ from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, make_scorer
 
 # === Paths ===
-INPUT_PATH = '/Users/hj/MLAdditive/data/preprocessed_smote.csv'
-BASE_RESULTS_DIR = '/Users/hj/MLAdditive/results/regression'
+INPUT_PATH = '/data/preprocessed_smote.csv'
+BASE_RESULTS_DIR = '/results/regression'
 # Added path for saving the best model checkpoint
-MODEL_CHECKPOINT_DIR = '/Users/hj/MLAdditive/models'
+MODEL_CHECKPOINT_DIR = '/models'
 
 # === Custom Scorers for CV ===
 def rmse_scorer(y_true, y_pred):

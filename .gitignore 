@@ -1,0 +1,54 @@
+# =================
+# Data Files
+# =================
+# Ignore all CSV data files
+*.csv
+
+# =================
+# Logs
+# =================
+# Ignore log files
+*.log
+
+# =================
+# Results & Outputs
+# =================
+# Ignore the results directory and its contents
+results/
+
+# =================
+# Environment & Secrets
+# =================
+# Ignore environment variable files and other sensitive outputs
+.env
+*.env.*
+secrets.yaml
+secrets.json
+
+# =================
+# OS-specific files
+# =================
+# Ignore macOS .DS_Store files
+.DS_Store
+# Ignore Windows thumbnail cache
+Thumbs.db
+
+# =================
+# Python specific
+# =================
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =================
+# IDE & Editor specific
+# =================
+.vscode/
+.idea/
+
+# =================
+# Notebook Checkpoints
+# =================
+.ipynb_checkpoints/

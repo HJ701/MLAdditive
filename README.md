@@ -1,54 +1,50 @@
-# ML-Driven Additive Selection for Polyolefins
+# MLAdditive: Predicting Pipe Lifetime
 
-This project develops a machine learning system to recommend optimal additive formulations for polyethylene and polypropylene grades, enhancing their lifetime performance under specific environmental conditions.
+Welcome to **MLAdditive**, a machine learning application designed to predict the lifetime of industrial pipes using material composition and testing parameters. This repository features:
 
-## 🔍 Objective
-
-To intelligently predict the **ideal combination and dosage** of additives (e.g., antioxidants, carbon black, waxes) based on resin type and environmental exposure, using ML regression models.
-
----
-
-## 🧩 Project Components
-
-### 1. Dataset Development (Subject to change)
-- **Synthetic and empirical data** simulation covering:
-  - Base resin: Polyethylene / Polypropylene
-  - Additives: Primary & Secondary AO, Carbon Black, Waxes, etc.
-  - Environment: Temp, UV, ClO₂, Water, Pressure
-  - Output: Predicted Lifetime
-
-### 2. Model Development (Subject to change)
-- ML regression pipeline:
-  - Feature preprocessing & encoding
-  - Lifetime prediction using regression models (e.g., XGBoost, MLP, etc.)
-  - Evaluation: R², MAE, visual plots
-
-### 3. Degradation Logic (Optional)
-- Surrogate models or analytical equations (literature-informed)
-
-### 4. GUI Interface (Optional)
-- A simple interface to input resin type & environment, and output optimal additive formulation
+- ✅ A public **Streamlit web app** for lifetime prediction using a trained model.
+- 🔐 A private **training pipeline** for model development on sensitive datasets.
+- 📊 Interpretable performance results of the trained model.
+- 📂 Modular and clean project architecture.
 
 ---
 
-## 📈 Deliverables
+## Project Overview
 
-| Item            | Description                                         |
-|-----------------|-----------------------------------------------------|
-| Dataset         | Clean, engineered additive-performance data         |
-| ML Model        | Trained models with performance reports             |
-| GUI             | Optional predictive interface (under development)   |
-| Final Report    | Documentation, results, codebase (this repo)        |
+Industrial pipe lifetime prediction is vital for maintenance and failure prevention. Our solution uses supervised regression models trained on proprietary ISO9080-based datasets to estimate lifetime in a few seconds.
 
 ---
 
-## 🧠 Bonus Extensions
-- **Cost-Performance Optimization:** Minimize cost while maximizing lifetime
-- **Surrogate Physics Models:** Incorporate chemical degradation logic
+## Model Performance & Results
+
+We evaluated multiple models. The **Random Forest Regressor** achieved the best generalization performance. Below are the test results and visualizations:
+
+### Evaluation Metrics (Test Set)
+
+| Model               | MAE     | MSE     | RMSE    | R²     |
+|--------------------|---------|---------|---------|--------|
+| Ridge Regression   | 21.23   | 577.30  | 24.03   | 0.578  |
+| Random Forest      | **2.24**| **47.09**| **6.86**| **0.985** |
+
+### Visual: True vs Predicted (Random Forest)
+
+![Random Forest Prediction](results/true_vs_pred_rf.png)
+
+The plot demonstrates high predictive accuracy with minimal error across the test set.
 
 ---
 
-## 📄 License & Attribution
+## 📦 Deployment & Inference Instructions
 
-This project is internal to **Borouge** and protected under institutional research collaboration. Not for public use unless authorized.
+Anyone can run the Streamlit app for inference using the pre-trained model (`best_rf_model.pkl`):
 
+```bash
+# Clone the repository
+git clone https://github.com/HJ701/MLAdditive.git
+cd MLAdditive
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run streamlit_app/app.py

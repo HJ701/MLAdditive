@@ -28,7 +28,7 @@ model = load_model()
 
 # Try to resolve expected columns file relative to repo
 ROOT = Path(__file__).resolve().parents[1]
-EXPECTED_COLS_PATH = ROOT / "data" / "expected_columns.txt"
+EXPECTED_COLS_PATH = ROOT / "models" / "expected_columns.txt"
 
 def _load_expected_columns():
     if EXPECTED_COLS_PATH.exists():
