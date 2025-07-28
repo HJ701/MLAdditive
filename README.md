@@ -28,7 +28,7 @@ We evaluated multiple models. The **Random Forest Regressor** achieved the best 
 
 ### Visual: True vs Predicted (Random Forest)
 
-![Random Forest Prediction](results/regression/random_forest/true_vs_pred_rf.png)
+![Random Forest Prediction](results/regression/random_forest/actual_vs_predicted.png)
 
 The plot demonstrates high predictive accuracy with minimal error across the test set.
 
