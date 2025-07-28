@@ -26,12 +26,6 @@ We evaluated multiple models. The **Random Forest Regressor** achieved the best 
 | Ridge Regression   | 21.23   | 577.30  | 24.03   | 0.578  |
 | Random Forest      | **2.24**| **47.09**| **6.86**| **0.985** |
 
-### Visual: True vs Predicted (Random Forest)
-
-![Random Forest Prediction](results/regression/random_forest/actual_vs_predicted.png)
-
-The plot demonstrates high predictive accuracy with minimal error across the test set.
-
 ---
 
 ## 📦 Deployment & Inference Instructions
